@@ -29,11 +29,9 @@
 ---
 
 ## Tech Stack
-
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,php,mongodb,postgres,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,bun,threejs,python,php,mongodb,postgres,tailwind" />
 </p>
-
 ---
 
 ## Featured Projects
