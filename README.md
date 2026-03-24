@@ -11,9 +11,9 @@
 ## About Me
 
 <ul>
-  <li>🔭 Working on full-stack web apps</li>
-  <li>🌱 Learning backend scaling & system design</li>
-  <li>⚡ Focused on performance, clean UI, and real-world products</li>
+  <li>Working on full-stack web apps</li>
+  <li>Learning backend scaling & system design</li>
+  <li>Focused on performance, clean UI, and real-world products</li>
 </ul>
 
 ---
@@ -31,7 +31,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,postgres,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,php,mongodb,postgres,tailwind" />
 </p>
 
 ---
@@ -55,9 +55,10 @@
     <img src="https://skillicons.dev/icons?i=web" width="40"/>
   </a>
   <a href="https://x.com/joyebdev">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="28"/>
+  </a>
+  <a href="https://instagram.com/devxziki">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="28"/>
   </a>
   <a href="mailto:joyebkofficial@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
-  </a>
-</p>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-ico
