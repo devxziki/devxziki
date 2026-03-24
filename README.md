@@ -18,6 +18,10 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=devxziki\&theme=radical\&hide_border=true\&background=00000000)
 
+![](https://github-readme-stats.vercel.app/api?username=devxziki\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=00000000)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devxziki\&layout=compact\&theme=radical\&hide_border=true\&bg_color=00000000)
+
 ---
 
 ## 🛠️ Tech Stack
