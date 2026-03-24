@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Activity
 
-![](https://nirzak-streak-stats.vercel.app/?user=devxziki\&theme=radical\&hide_border=true\&background=00000000)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devxziki\&theme=radical\&hide_border=true\&background=00000000)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=devxziki\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=00000000)
 
