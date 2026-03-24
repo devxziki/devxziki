@@ -50,15 +50,18 @@
 
 ## Connect
 
-<p>
-  <a href="https://joyeb.me">
-    <img src="https://skillicons.dev/icons?i=web" width="40"/>
-  </a>
+## Connect
+
+<p align="left">
   <a href="https://x.com/joyebdev">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="28" style="filter: invert(1); margin-right: 15px;" />
   </a>
+  
   <a href="https://instagram.com/devxziki">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="28" style="filter: invert(1); margin-right: 15px;" />
   </a>
+  
   <a href="mailto:joyebkofficial@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-ico
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28" style="filter: invert(1);" />
+  </a>
+</p>
