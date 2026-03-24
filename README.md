@@ -29,9 +29,31 @@
 ---
 
 ## Tech Stack
+
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,bun,threejs,python,php,mongodb,postgres,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" />
 </p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### Tools & Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bun,vscode" />
+</p>
+
 ---
 
 ## Featured Projects
@@ -51,12 +73,12 @@
 <p align="left">
   <a href="https://x.com/joyebdev">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  
+  </a>&nbsp;&nbsp;
+
   <a href="https://instagram.com/devxziki">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  
+  </a>&nbsp;&nbsp;
+
   <a href="mailto:joyebkofficial@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
