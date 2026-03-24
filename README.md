@@ -51,7 +51,7 @@
 ### Tools & Runtime
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bun,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,bun,npm,pnpm,vscode" />
 </p>
 
 ---
