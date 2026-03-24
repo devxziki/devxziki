@@ -1,47 +1,46 @@
-# Hi, I'm Joyeb 👋
+# Hi, I'm Joyeb
 
-💻 Full Stack Developer (MERN)
-🚀 Building fast, scalable, and modern web applications
-🌐 https://joyeb.me
-
----
-
-## 🧠 About Me
-
-* 🔭 Working on full-stack web apps
-* 🌱 Learning backend scaling & system design
-* ⚡ Focused on performance, clean UI, and real-world products
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> Full Stack Developer (MERN)<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> Building fast, scalable, and modern web applications<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="16"/> https://joyeb.me  
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## About Me
+
+<ul>
+  <li>🔭 Working on full-stack web apps</li>
+  <li>🌱 Learning backend scaling & system design</li>
+  <li>⚡ Focused on performance, clean UI, and real-world products</li>
+</ul>
+
+---
+
+## GitHub Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devxziki\&theme=radical\&hide_border=true\&background=00000000)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=devxziki\&show_icons=true\&theme=radical\&hide_border=true\&bg_color=00000000)
+<img src="https://github-readme-stats.vercel.app/api?username=devxziki&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devxziki\&layout=compact\&theme=radical\&hide_border=true\&bg_color=00000000)
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/nextjs-black?style=for-the-badge\&logo=next.js)
-![Node.js](https://img.shields.io/badge/nodejs-black?style=for-the-badge\&logo=node.js)
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge\&logo=postgresql)
-![TailwindCSS](https://img.shields.io/badge/tailwind-black?style=for-the-badge\&logo=tailwind-css)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxziki&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🔥 Portfolio
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,postgres,tailwind" />
+</p>
 
-🌐 https://joyeb.me
+---
+
+## Featured Projects
+
+### Portfolio
+
+<a href="https://joyeb.me">https://joyeb.me</a>
 
 * Modern UI/UX
 * Optimized performance
@@ -49,8 +48,16 @@
 
 ---
 
-## 🌍 Connect
+## Connect
 
-* 🌐 https://joyeb.me
-* 🐦 https://x.com/joyebdev
-* 📧 [joyebkofficial@gmail.com](mailto:joyebkofficial@gmail.com)
+<p>
+  <a href="https://joyeb.me">
+    <img src="https://skillicons.dev/icons?i=web" width="40"/>
+  </a>
+  <a href="https://x.com/joyebdev">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="32"/>
+  </a>
+  <a href="mailto:joyebkofficial@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
+  </a>
+</p>
