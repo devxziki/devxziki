@@ -50,10 +50,6 @@
 
 ## Connect
 
-## Connect
-
-## Connect
-
 <p align="left">
   <a href="https://x.com/joyebdev">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
