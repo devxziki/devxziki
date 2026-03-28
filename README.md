@@ -25,6 +25,7 @@
 * 🤖 AI-powered web tools
 * ⚙️ Scalable backend architectures
 * 🌍 Production-ready full-stack applications
+* 💡 **DevSync** — a distraction-free platform for developers
 
 ---
 
@@ -97,14 +98,21 @@
 * 🚀 Building full-stack applications with a focus on scalability and real-world use
 * ⚡ Developing performance-optimized projects with clean and efficient architecture
 * 📈 Continuously improving development skills and exploring modern technologies
-* 💡 Currently building **CoderBuddys** — a platform where developers can:
+* 💡 Currently building **DevSync** — a distraction-free platform for developers where they can:
 
   * Share code snippets
   * Ask and solve problems
-  * Collaborate and learn together
+  * Collaborate and grow together
 
-  🔥 Inspired by social platforms like Instagram, but designed **only for developers** —
-  with **zero distractions and full focus on coding & learning**
+  🔥 Designed to eliminate distractions and focus only on **coding, learning, and real value**
+
+---
+
+## 💡 What is DevSync?
+
+> **DevSync is a distraction-free platform for developers to share code, solve problems, and collaborate efficiently.**
+
+⚡ Built to remove noise and help developers stay focused on what truly matters — **learning, building, and growing**
 
 ---
 
