@@ -1,13 +1,7 @@
 # 👋 Hey, I'm Joyeb
 
-<p>
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Web%20Apps-000000?style=flat-square" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Passion-Clean%20UI%20%26%20Powerful%20Backends-000000?style=flat-square" />
-</p>
+🚀 **Full Stack Developer building scalable, high-performance web apps**
+⚡ Passionate about clean UI, powerful backend systems & real-world products
 
 ---
 
@@ -19,34 +13,27 @@
 
 ## 🧠 About Me
 
-<ul>
-  <li><img src="https://img.shields.io/badge/-Full%20Stack%20Developer-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-MERN%20%26%20Modern%20Web%20Tech-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Learning%20System%20Design%20%26%20Scaling-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Focused%20on%20Performance%20%26%20UX-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Building%20Real%20World%20Projects-black?style=flat-square" /></li>
-</ul>
+* 🛠️ Full-stack developer using **MERN & modern web technologies**
+* 📈 Currently learning **system design & backend scaling**
+* 🎯 Focused on **performance, UX, and production-ready apps**
+* 🚀 Building projects that solve real problems
 
 ---
 
 ## 🧩 Currently Building
 
-<ul>
-  <li><img src="https://img.shields.io/badge/-AI%20Powered%20Web%20Tools-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Scalable%20Backend%20Architectures-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Production%20Ready%20Apps-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-DevHive%20Platform-black?style=flat-square" /></li>
-</ul>
+* 🤖 AI-powered web tools
+* ⚙️ Scalable backend architectures
+* 🌍 Production-ready full-stack applications
+* 💡 **DevHive** — a distraction-free platform for developers
 
 ---
 
 ## 📚 Learning
 
-<ul>
-  <li><img src="https://img.shields.io/badge/-System%20Design-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Distributed%20Systems-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-DevOps%20%26%20Cloud-black?style=flat-square" /></li>
-</ul>
+* System Design
+* Distributed Systems
+* DevOps & Cloud
 
 ---
 
@@ -91,35 +78,24 @@
 
 🔗 https://joyeb.me
 
-<ul>
-  <li><img src="https://img.shields.io/badge/-Fast%20%26%20Optimized-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Fully%20Responsive-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Modern%20UI%20UX-black?style=flat-square" /></li>
-</ul>
+* ⚡ Fast and optimized performance
+* 📱 Fully responsive across devices
+* 🎨 Clean and modern UI/UX
 
 ---
 
 ## 🏆 Achievements
 
-<ul>
-  <li><img src="https://img.shields.io/badge/-Scalable%20Full%20Stack%20Apps-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Performance%20Optimized%20Projects-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Continuous%20Learning-black?style=flat-square" /></li>
-</ul>
+* 🚀 Building full-stack applications with a focus on scalability and real-world use
+* ⚡ Developing performance-optimized projects with clean and efficient architecture
+* 📈 Continuously improving development skills and exploring modern technologies
+* 💡 Currently building **DevHive** — a distraction-free platform for developers where they can:
 
-<p>
-  <img src="https://img.shields.io/badge/Project-DevHive-black?style=flat-square" />
-</p>
+  * Share code snippets
+  * Ask and solve problems
+  * Collaborate and grow together
 
-<ul>
-  <li><img src="https://img.shields.io/badge/-Share%20Code%20Snippets-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Solve%20Problems-black?style=flat-square" /></li>
-  <li><img src="https://img.shields.io/badge/-Collaborate%20in%20Real%20Time-black?style=flat-square" /></li>
-</ul>
-
-<p>
-  <img src="https://img.shields.io/badge/Goal-Distraction%20Free%20Development-black?style=flat-square" />
-</p>
+  🔥 Designed to eliminate distractions and focus only on **coding, learning, and real value**
 
 ---
 
@@ -127,9 +103,7 @@
 
 > **DevHive is a distraction-free platform for developers to share code, solve problems, and collaborate efficiently.**
 
-<p>
-  <img src="https://img.shields.io/badge/-Focused%20on%20Learning%20%26%20Building-black?style=flat-square" />
-</p>
+⚡ Built to remove noise and help developers stay focused on what truly matters — **learning, building, and growing**
 
 ---
 
@@ -153,12 +127,8 @@
 
 ## ⚡ Fun Fact
 
-<p>
-  <img src="https://img.shields.io/badge/-I%20build%20useful%20things%20not%20just%20cool%20ones-black?style=flat-square" />
-</p>
+💡 I love building things that are not just cool — but actually useful
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/-Follow%20for%20more-black?style=flat-square" />
-</p>
+⭐️ *If you like my work, consider following me!*
