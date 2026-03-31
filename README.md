@@ -116,16 +116,16 @@ const joyeb = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=devxziki&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devxziki&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=devxziki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devxziki&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devxziki&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devxziki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devxziki&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devxziki&theme=tokyonight" />
 
 </div>
 
