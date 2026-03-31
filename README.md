@@ -138,6 +138,7 @@ const joyeb = {
 [█████████░░░░░░] DevOps & Cloud Infrastructure  
 [████████████████] Full Stack Development         ✓
 [███████████░░░░] AI-Powered Web Tools
+[████████░░░░░░░] AI-Powered Autonomous CLI Tool
 ```
 
 ---
