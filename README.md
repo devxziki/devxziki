@@ -1,7 +1,27 @@
 # 👋 Hey, I'm Joyeb
 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/joyebdev?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/joyebdev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/joyebdev?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=joyebdev&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-DevHive-black?style=for-the-badge" />
+</p>
+
+---
+
 🚀 **Full Stack Developer building scalable, high-performance web apps**
 ⚡ Passionate about clean UI, powerful backend systems & real-world products
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=joyebdev&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyebdev&theme=radical" height="180"/>
+</p>
 
 ---
 
@@ -20,12 +40,37 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 💡 DevHive — Developer Platform
+
+<p>
+  <a href="https://github.com/devxziki/devhive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devxziki&repo=devhive&theme=radical" />
+  </a>
+</p>
+
+🔗 https://github.com/devxziki/devhive
+
+<img src="https://img.shields.io/github/stars/devxziki/devhive?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/devxziki/devhive?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/devxziki/devhive?style=for-the-badge" />
+
+**DevHive is a distraction-free platform for developers to:**
+
+* Share code snippets
+* Ask and solve problems
+* Collaborate in real-time
+
+🔥 Built with focus on **clean UX, performance, and developer productivity**
+
+---
+
 ## 🧩 Currently Building
 
 * 🤖 AI-powered web tools
 * ⚙️ Scalable backend architectures
 * 🌍 Production-ready full-stack applications
-* 💡 **DevHive** — a distraction-free platform for developers
 
 ---
 
@@ -72,38 +117,17 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Portfolio
-
-🔗 https://joyeb.me
-
-* ⚡ Fast and optimized performance
-* 📱 Fully responsive across devices
-* 🎨 Clean and modern UI/UX
-
----
-
 ## 🏆 Achievements
 
 * 🚀 Building full-stack applications with a focus on scalability and real-world use
 * ⚡ Developing performance-optimized projects with clean and efficient architecture
 * 📈 Continuously improving development skills and exploring modern technologies
-* 💡 Currently building **DevHive** — a distraction-free platform for developers where they can:
-
-  * Share code snippets
-  * Ask and solve problems
-  * Collaborate and grow together
-
-  🔥 Designed to eliminate distractions and focus only on **coding, learning, and real value**
 
 ---
 
-## 💡 What is DevHive?
+## 🔥 Contribution Activity
 
-> **DevHive is a distraction-free platform for developers to share code, solve problems, and collaborate efficiently.**
-
-⚡ Built to remove noise and help developers stay focused on what truly matters — **learning, building, and growing**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joyebdev&theme=react-dark"/>
 
 ---
 
