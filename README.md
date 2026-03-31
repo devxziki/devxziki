@@ -63,24 +63,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,bun,npm,pnpm,vscode" />
 </p>
 
-### 🚀 Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Cursor-AI%20Code%20Editor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Warp-Terminal-000000?style=for-the-badge&logo=warp&logoColor=white" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Portfolio
+### 💡 DevHive
 
-🔗 https://joyeb.me
+🔗 https://github.com/devxziki/devhive
 
-* ⚡ Fast and optimized performance
-* 📱 Fully responsive across devices
-* 🎨 Clean and modern UI/UX
+* Share code snippets
+* Ask and solve problems
+* Collaborate in real-time
 
 ---
 
