@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+don't+just+code+—+I+ship+products+%F0%9F%9A%80;MERN+Stack+%7C+System+Design+%7C+DevOps;Turning+real+problems+into+real+solutions+%E2%9A%A1;Currently+building+DevHive+%F0%9F%90%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;MERN+Stack+%7C+System+Design+%7C+DevOps;Building+DevHive+%F0%9F%90%9D" alt="Typing SVG" />
 
 </div>
 
