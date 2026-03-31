@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable%2C+high-performance+apps+%E2%9A%A1;MERN+Stack+%7C+System+Design+%7C+DevOps;Turning+ideas+into+production-ready+products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable%2C+high-performance+apps+%E2%9A%A1;MERN+Stack+%7C+System+Design+%7C+DevOps;Turning+ideas+into+production-ready+products+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
