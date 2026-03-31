@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Brand Handle -->
 <code>@devxziki</code>
 
-<br/><br/>
-
-<!-- ASCII Name Banner - preformatted and centered -->
+<!-- Name ASCII -->
 <pre>
      ██╗ ██████╗ ██╗   ██╗███████╗██████╗
      ██║██╔═══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
@@ -19,9 +16,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-joyeb.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22&color=238636)](https://joyeb.me)
-[![Brand](https://img.shields.io/badge/⚡_Brand-@devxziki-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff)](https://github.com/devxziki)
-[![DevHive](https://img.shields.io/badge/🐝_DevHive-View_Project-0d1117?style=for-the-badge&logoColor=white&labelColor=161b22&color=f0883e)](https://github.com/devxziki/devhive)
+[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-joyeb.me-0d1117?style=for-the-badge&logoColor=white&labelColor=161b22&color=238636)](https://joyeb.me)
+[![Brand](https://img.shields.io/badge/devxziki-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff)](https://github.com/devxziki)
+[![DevHive](https://img.shields.io/badge/🐝_DevHive-View_Project-0d1117?style=for-the-badge&logo=rocket&logoColor=white&labelColor=161b22&color=f0883e)](https://github.com/devxziki/devhive)
 
 <br/>
 
@@ -145,7 +142,7 @@ const joyeb = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_joyeb.me-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://joyeb.me)
+[![Portfolio](https://img.shields.io/badge/🔗_joyeb.me-Portfolio-blue?style=flat-square&logoColor=white)](https://joyeb.me)
 [![GitHub](https://img.shields.io/badge/GitHub-@devxziki-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devxziki)
 
 </div>
