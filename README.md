@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/github/stars/joyebdev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
   <img src="https://img.shields.io/github/repos/joyebdev?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=joyebdev&label=Profile%20Views&style=for-the-badge" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Building-DevHive-black?style=for-the-badge" />
 </p>
@@ -18,9 +21,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joyebdev&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyebdev&theme=radical" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joyebdev&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyebdev&theme=radical" height="170"/>
 </p>
 
 ---
@@ -44,17 +47,19 @@
 
 ### 💡 DevHive — Developer Platform
 
-<p>
+<p align="center">
   <a href="https://github.com/devxziki/devhive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devxziki&repo=devhive&theme=radical" />
   </a>
 </p>
 
-🔗 https://github.com/devxziki/devhive
+<p align="center">
+  <img src="https://img.shields.io/github/stars/devxziki/devhive?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/devxziki/devhive?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/devxziki/devhive?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/github/stars/devxziki/devhive?style=for-the-badge" />
-<img src="https://img.shields.io/github/forks/devxziki/devhive?style=for-the-badge" />
-<img src="https://img.shields.io/github/issues/devxziki/devhive?style=for-the-badge" />
+🔗 https://github.com/devxziki/devhive
 
 **DevHive is a distraction-free platform for developers to:**
 
@@ -127,7 +132,9 @@
 
 ## 🔥 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joyebdev&theme=react-dark"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyebdev&theme=react-dark"/>
+</p>
 
 ---
 
