@@ -1,14 +1,24 @@
 <div align="center">
 
 <!-- Brand Handle -->
-<sub><code>@devxziki</code></sub>
+<code>@devxziki</code>
 
-<!-- Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=JOYEB&fontAlign=50&fontAlignY=60&fontSize=90&fontColor=58A6FF&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descAlign=50&descAlignY=80&descSize=16&descColor=8b949e" />
+<br/><br/>
+
+<!-- ASCII Name Banner - preformatted and centered -->
+<pre>
+     ██╗ ██████╗ ██╗   ██╗███████╗██████╗
+     ██║██╔═══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
+     ██║██║   ██║ ╚████╔╝ █████╗  ██████╔╝
+██   ██║██║   ██║  ╚██╔╝  ██╔══╝  ██╔══██╗
+╚█████╔╝╚██████╔╝   ██║   ███████╗██████╔╝
+ ╚════╝  ╚═════╝    ╚═╝   ╚══════╝╚═════╝
+</pre>
+
+### Full Stack Developer &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Problem Solver
 
 <br/>
 
-<!-- Badges Row -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-joyeb.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22&color=238636)](https://joyeb.me)
 [![Brand](https://img.shields.io/badge/⚡_Brand-@devxziki-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff)](https://github.com/devxziki)
 [![DevHive](https://img.shields.io/badge/🐝_DevHive-View_Project-0d1117?style=for-the-badge&logoColor=white&labelColor=161b22&color=f0883e)](https://github.com/devxziki/devhive)
@@ -150,6 +160,6 @@ const joyeb = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devxziki&color=58a6ff&style=flat-square&label=Profile+Views)
 
-⭐️ **If you find my work valuable, a follow means the world — Joyeb** &nbsp;`@devxziki`
+⭐️ **Drop a follow if you like the work — Joyeb** &nbsp;`@devxziki`
 
 </div>
