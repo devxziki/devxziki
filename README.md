@@ -1,16 +1,10 @@
 <div align="center">
 
-<code>@devxziki</code>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=%40devxziki&fontAlign=50&fontAlignY=70&fontSize=20&fontColor=8b949e" />
 
-<!-- Name ASCII -->
-<pre>
-     ██╗ ██████╗ ██╗   ██╗███████╗██████╗
-     ██║██╔═══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
-     ██║██║   ██║ ╚████╔╝ █████╗  ██████╔╝
-██   ██║██║   ██║  ╚██╔╝  ██╔══╝  ██╔══██╗
-╚█████╔╝╚██████╔╝   ██║   ███████╗██████╔╝
- ╚════╝  ╚═════╝    ╚═╝   ╚══════╝╚═════╝
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=JOYEB&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=58A6FF&fontStyle=bold" />
+
+
 
 ### Full Stack Developer &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Problem Solver
 
@@ -22,7 +16,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable%2C+high-performance+apps+%E2%9A%A1;MERN+Stack+%7C+System+Design+%7C+DevOps;Turning+ideas+into+production-ready+products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=I+don't+just+code+—+I+ship+products+%F0%9F%9A%80;MERN+Stack+%7C+System+Design+%7C+DevOps;Turning+real+problems+into+real+solutions+%E2%9A%A1;Currently+building+DevHive+%F0%9F%90%9D" alt="Typing SVG" />
 
 </div>
 
@@ -35,12 +29,61 @@ const joyeb = {
   name        : "Joyeb",
   handle      : "@devxziki",
   role        : "Full Stack Developer",
-  focus       : ["Performance", "Clean Architecture", "Real-world Products"],
+  focus       : ["Shipping Products", "Clean Architecture", "Real-world Impact"],
   learning    : ["System Design", "Distributed Systems", "DevOps & Cloud"],
-  building    : "DevHive — a distraction-free platform for developers",
+  building    : "DevHive — distraction-free platform where devs ship, learn & grow",
+  mindset     : "Builders > Learners. Shipping > Coding. Impact > Claims.",
   philosophy  : "Not just cool. Actually useful.",
 };
 ```
+
+---
+
+## 🐝 DevHive — The Product
+
+> **The developer platform built to eliminate noise and maximize output.**
+
+<table>
+<tr>
+<td width="55%">
+
+**The Problem it solves:**
+> Developers waste hours on social media, noisy forums & scattered resources. DevHive cuts through all of it.
+
+**Core Features:**
+- 📎 **Code Sharing** — Snippet library with syntax highlighting
+- 💬 **Q&A Forum** — Stack Overflow-style focused discussions
+- 🤝 **Real-time Collab** — Pair program & review live
+- 🚫 **Zero Distractions** — No feeds, no ads, no noise
+
+**Stack:**
+`React` `Node.js` `MongoDB` `Socket.io` `TailwindCSS`
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/📂_Source_Code-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki/devhive)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-238636?style=for-the-badge&logoColor=white)](https://github.com/devxziki/devhive)
+
+</td>
+<td width="45%" align="center">
+
+```
+┌─────────────────────────┐
+│      🐝 DevHive          │
+│  ─────────────────────  │
+│  📎 Snippets   ✓ Live   │
+│  💬 Q&A        ✓ Live   │
+│  🤝 Collab     ⚡ WIP   │
+│  🤖 AI Tools   ⚡ WIP   │
+│  ─────────────────────  │
+│  "No noise.             │
+│   Just code & value."   │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,45 +116,6 @@ const joyeb = {
 
 ---
 
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td width="60%">
-
-### 🐝 DevHive
-> *A distraction-free platform built for developers who want to focus on what actually matters.*
-
-**What you can do:**
-- 📎 Share and discover code snippets
-- 💬 Ask questions & solve real problems
-- 🤝 Collaborate and grow with peers
-- 🚫 Zero noise. Zero distractions.
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki/devhive)
-
-</td>
-<td width="40%" align="center">
-
-```
-╔══════════════════╗
-║   < DevHive />   ║
-║                  ║
-║  • Code Sharing  ║
-║  • Q&A Forum     ║
-║  • Collab Space  ║
-║                  ║
-║  No noise. Just  ║
-║  code & value.   ║
-╚══════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -125,7 +129,7 @@ const joyeb = {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devxziki&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devxziki&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -135,7 +139,7 @@ const joyeb = {
 
 ```
 [████████████░░░] System Design & Scalability
-[█████████░░░░░░] DevOps & Cloud Infrastructure  
+[█████████░░░░░░] DevOps & Cloud Infrastructure
 [████████████████] Full Stack Development         ✓
 [███████████░░░░] AI-Powered Web Tools
 [████████░░░░░░░] AI-Powered Autonomous CLI Tool
