@@ -48,7 +48,7 @@ const joyeb = {
 
 ---
 
-## 🐝 DevHive — Flagship Product
+## DevHive — Flagship Product
 
 > *The developer platform built to eliminate noise and maximize output.*
 
@@ -84,21 +84,21 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 <td width="46%" align="center">
 
 ```
-╔════════════════════════════╗
-║      🐝  D e v H i v e    ║
-╠════════════════════════════╣
-║                            ║
-║  📎  Snippets     ● Live   ║
-║  💬  Q&A Forum    ● Live   ║
-║  🤝  Collab       ◑ WIP    ║
-║  🤖  AI Tools     ◑ WIP    ║
-║                            ║
-╠════════════════════════════╣
-║                            ║
-║  "No feeds. No noise.      ║
-║   Just code & value."      ║
-║                            ║
-╚════════════════════════════╝
++------------------------------+
+|        D E V H I V E         |
++------------------------------+
+|                              |
+|  [+] Snippets      [ LIVE ]  |
+|  [?] Q&A Forum     [ LIVE ]  |
+|  [~] Collab        [  WIP ]  |
+|  [*] AI Tools      [  WIP ]  |
+|                              |
++------------------------------+
+|                              |
+|  "No feeds. No noise.        |
+|   Just code & value."        |
+|                              |
++------------------------------+
 ```
 
 </td>
