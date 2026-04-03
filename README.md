@@ -10,17 +10,17 @@
 
 <a href="https://joyeb.me"><img src="https://img.shields.io/badge/Portfolio-joyeb.me-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/devxziki"><img src="https://img.shields.io/badge/GitHub-@devxziki-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/devxziki/devhive"><img src="https://img.shields.io/badge/🐝_DevHive-Live_Project-f0883e?style=flat-square" /></a>
+<a href="https://github.com/devxziki/devhive"><img src="https://img.shields.io/badge/DevHive-Live_Project-f0883e?style=flat-square" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=2500&color=58A6FF&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;Currently+Building+DevHive+%F0%9F%90%9D;System+Design+%C2%B7+DevOps+%C2%B7+Cloud+%C2%B7+AI;%E2%80%9CNot+just+cool.+Actually+useful.%E2%80%9D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=2500&color=58A6FF&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;Currently+Building+DevHive;System+Design+%C2%B7+DevOps+%C2%B7+Cloud+%C2%B7+AI;%E2%80%9CNot+just+cool.+Actually+useful.%E2%80%9D" />
 
 </div>
 
 ---
 
-## $ whoami
+## `$ whoami`
 
 ```typescript
 const joyeb = {
@@ -48,9 +48,9 @@ const joyeb = {
 
 ---
 
-## DevHive — Flagship Product
+## DevHive — Flagship Project
 
-> *The developer platform built to eliminate noise and maximize output.*
+> *A distraction-free developer platform built to eliminate noise and maximize output.*
 
 Developers waste hours on social media, noisy forums, and scattered resources. **DevHive** cuts through all of it — a single focused space where you ship, learn, and grow.
 
@@ -60,10 +60,10 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 
 | Feature | Description | Status |
 |---|---|:---:|
-| 📎 **Snippets** | Syntax-highlighted code library | `Live` |
-| 💬 **Q&A Forum** | Stack Overflow-style, zero noise | `Live` |
-| 🤝 **Realtime Collab** | Pair program & review live | `WIP` |
-| 🤖 **AI Dev Tools** | Context-aware assistant | `WIP` |
+| **Snippets** | Syntax-highlighted code library | `Live` |
+| **Q&A Forum** | Stack Overflow-style, zero noise | `Live` |
+| **Realtime Collab** | Pair program & review live | `WIP` |
+| **AI Dev Tools** | Context-aware coding assistant | `WIP` |
 
 <br/>
 
@@ -107,7 +107,7 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -119,13 +119,20 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend & Database**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Package Managers & Runtimes**
+
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -134,12 +141,13 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -158,7 +166,7 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 
 ---
 
-## 🎯 What I'm Working On
+## Current Focus
 
 ```
   Full Stack Development          ██████████████████  100%  ✓  Mastered
@@ -170,13 +178,13 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 
 ---
 
-## 💡 Philosophy
+## Engineering Philosophy
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-**🚀 Ship First**
+**Ship First**
 
 Build → Deploy → Learn.
 Done beats perfect.
@@ -184,7 +192,7 @@ Done beats perfect.
 </td>
 <td align="center" width="33%">
 
-**🎯 Build for Impact**
+**Build for Impact**
 
 Every feature must solve
 a real problem, clearly.
@@ -192,7 +200,7 @@ a real problem, clearly.
 </td>
 <td align="center" width="33%">
 
-**🧠 Systems Thinking**
+**Systems Thinking**
 
 Good architecture today
 saves weeks tomorrow.
@@ -203,7 +211,7 @@ saves weeks tomorrow.
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
 <div align="center">
 
@@ -225,7 +233,7 @@ saves weeks tomorrow.
 
 <br/>
 
-**If you like what you see — give it a ⭐ and drop a follow.**
+**If you like what you see — drop a star and a follow.**
 
 </div>
 
