@@ -1,73 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Joyeb&fontAlign=50&fontAlignY=42&fontSize=80&fontColor=ffffff&fontStyle=bold&desc=Full%20Stack%20Developer%20%E2%80%94%20Builder%20%E2%80%94%20Problem%20Solver&descAlign=50&descAlignY=65&descSize=16&color=0:0d1117,60:0f1f3d,100:0d1117" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Joyeb&fontAlign=50&fontAlignY=40&fontSize=90&fontColor=ffffff&fontStyle=bold&desc=Full%20Stack%20Developer%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descAlign=50&descAlignY=62&descSize=15&color=0:0d1117,50:111827,100:0d1117" />
 
 <br/>
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/joyeb.me-000000?style=flat-square&logo=vercel&logoColor=white&label=Portfolio)](https://joyeb.me)
+[![GitHub](https://img.shields.io/badge/@devxziki-181717?style=flat-square&logo=github&logoColor=white&label=GitHub)](https://github.com/devxziki)
+[![DevHive](https://img.shields.io/badge/DevHive-orange?style=flat-square&label=Flagship+Project)](https://github.com/devxziki/devhive)
 
-<a href="https://joyeb.me"><img src="https://img.shields.io/badge/Portfolio-joyeb.me-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/devxziki"><img src="https://img.shields.io/badge/GitHub-@devxziki-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/devxziki/devhive"><img src="https://img.shields.io/badge/DevHive-Live_Project-f0883e?style=flat-square" /></a>
+<br/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=2500&color=58A6FF&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;Currently+Building+DevHive;System+Design+%C2%B7+DevOps+%C2%B7+Cloud+%C2%B7+AI;%E2%80%9CNot+just+cool.+Actually+useful.%E2%80%9D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=3000&color=64B5F6&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;Crafting+DevHive+%E2%80%94+distraction-free+dev+platform;Learning+System+Design+%C2%B7+DevOps+%C2%B7+Cloud;%22Not+just+cool.+Actually+useful.%22" />
 
 </div>
 
 ---
 
-## `$ whoami`
+## `whoami`
 
-```typescript
+```ts
 const joyeb = {
-  name      : "Joyeb",
-  handle    : "@devxziki",
   role      : "Full Stack Developer",
+  handle    : "@devxziki",
   stack     : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL"],
 
-  currently : {
+  now: {
     building  : "DevHive — distraction-free platform for developers",
-    learning  : ["System Design", "Distributed Systems", "DevOps & Cloud"],
+    studying  : ["System Design", "Distributed Systems", "DevOps & Cloud"],
     exploring : "AI-powered autonomous CLI tooling",
   },
 
-  principles: [
-    "Builders > Learners",
-    "Shipping > Coding",
-    "Impact > Claims",
-  ],
-
-  openTo    : ["Collaborations", "Open Source", "Interesting Problems"],
+  principles: ["Builders > Learners", "Shipping > Coding", "Impact > Claims"],
   motto     : "Not just cool. Actually useful.",
 };
 ```
 
 ---
 
-## DevHive — Flagship Project
+## Featured — DevHive
 
-> *A distraction-free developer platform built to eliminate noise and maximize output.*
-
-Developers waste hours on social media, noisy forums, and scattered resources. **DevHive** cuts through all of it — a single focused space where you ship, learn, and grow.
+> A distraction-free developer platform built to eliminate noise and maximize output.
 
 <table>
 <tr>
-<td width="54%">
+<td width="55%">
 
-| Feature | Description | Status |
-|---|---|:---:|
-| **Snippets** | Syntax-highlighted code library | `Live` |
-| **Q&A Forum** | Stack Overflow-style, zero noise | `Live` |
-| **Realtime Collab** | Pair program & review live | `WIP` |
-| **AI Dev Tools** | Context-aware coding assistant | `WIP` |
+Developers waste hours on noisy feeds and scattered resources. **DevHive** is the antidote — one focused space to write, learn, and ship.
 
 <br/>
 
-**Stack:**
+| Module | Description | Status |
+|---|---|:---:|
+| **Snippets** | Syntax-highlighted code library | `✅ Live` |
+| **Q&A Forum** | Stack Overflow-style, zero noise | `✅ Live` |
+| **Realtime Collab** | Pair program & review live | `🔧 WIP` |
+| **AI Dev Tools** | Context-aware coding assistant | `🔧 WIP` |
+
+<br/>
+
+**Built with:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -77,28 +68,28 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 
 <br/>
 
-[![View Source](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki/devhive)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki/devhive)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devxziki/devhive)
 
 </td>
-<td width="46%" align="center">
+<td width="45%" align="center">
 
 ```
-+------------------------------+
-|        D E V H I V E         |
-+------------------------------+
-|                              |
-|  [+] Snippets      [ LIVE ]  |
-|  [?] Q&A Forum     [ LIVE ]  |
-|  [~] Collab        [  WIP ]  |
-|  [*] AI Tools      [  WIP ]  |
-|                              |
-+------------------------------+
-|                              |
-|  "No feeds. No noise.        |
-|   Just code & value."        |
-|                              |
-+------------------------------+
+╔══════════════════════════════╗
+║        D E V H I V E         ║
+╠══════════════════════════════╣
+║                              ║
+║  ◈  Snippets       [  LIVE ] ║
+║  ◈  Q&A Forum      [  LIVE ] ║
+║  ◌  Collab         [   WIP ] ║
+║  ◌  AI Tools       [   WIP ] ║
+║                              ║
+╠══════════════════════════════╣
+║                              ║
+║  "No feeds. No noise.        ║
+║   Just code and value."      ║
+║                              ║
+╚══════════════════════════════╝
 ```
 
 </td>
@@ -119,7 +110,7 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend & Databases**
+**Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
@@ -127,40 +118,40 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Package Managers & Runtimes**
+**Tooling & Runtimes**
 
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 
-**DevOps & Cloud**
+**DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=devxziki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
-<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devxziki&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=devxziki&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=390" />
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=devxziki&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=280" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devxziki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devxziki&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devxziki&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devxziki&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -169,74 +160,47 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 ## Current Focus
 
 ```
-  Full Stack Development          ██████████████████  100%  ✓  Mastered
-  System Design & Scalability     █████████████░░░░░   72%  ↑  Actively learning
-  AI-Powered Web Tools            ███████████░░░░░░░   65%  ↑  Building
-  DevOps & Cloud Infrastructure   █████████░░░░░░░░░   55%  ↑  Deep diving
-  Autonomous AI CLI Tool          ████████░░░░░░░░░░   48%  ↗  Experimenting
+  Full Stack Development        ████████████████████  100%   Mastered
+  System Design & Scalability   ██████████████░░░░░░   72%   In Progress
+  AI-Powered Web Tools          █████████████░░░░░░░   65%   Building
+  DevOps & Cloud                ███████████░░░░░░░░░   55%   Deep Dive
+  Autonomous AI CLI             █████████░░░░░░░░░░░   48%   Experimenting
 ```
 
 ---
 
-## Engineering Philosophy
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**Ship First**
-
-Build → Deploy → Learn.
-Done beats perfect.
-
-</td>
-<td align="center" width="33%">
-
-**Build for Impact**
-
-Every feature must solve
-a real problem, clearly.
-
-</td>
-<td align="center" width="33%">
-
-**Systems Thinking**
-
-Good architecture today
-saves weeks tomorrow.
-
-</td>
-</tr>
-</table>
-
----
-
-## Connect
+## Philosophy
 
 <div align="center">
 
-<a href="https://joyeb.me">
-  <img src="https://img.shields.io/badge/Portfolio-joyeb.me-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/devxziki">
-  <img src="https://img.shields.io/badge/GitHub-@devxziki-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+```
+  SHIP FIRST          BUILD FOR IMPACT        SYSTEMS THINKING
+  ──────────────      ────────────────        ────────────────
+  Build · Deploy      Every feature must      Good architecture
+  Learn · Iterate     solve a real problem    saves weeks later
+  Done > Perfect      clearly and directly    Design for scale
+```
 
-<br/><br/>
+</div>
 
-> *"I love building things that are not just cool — but actually useful."*
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/joyeb.me-000?style=for-the-badge&logo=vercel&logoColor=white&label=Portfolio)](https://joyeb.me)
+[![GitHub](https://img.shields.io/badge/@devxziki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=devxziki&color=58a6ff&style=flat-square&label=Profile+Views)&nbsp;
-![Followers](https://img.shields.io/github/followers/devxziki?style=flat-square&color=58a6ff&label=Followers)
+*"I build things that are not just cool — but actually useful."*
 
 <br/>
 
-**If you like what you see — drop a star and a follow.**
+![Views](https://komarev.com/ghpvc/?username=devxziki&color=64b5f6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/devxziki?style=flat-square&color=64b5f6&label=Followers)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,60:0f1f3d,100:0d1117&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:111827,100:0d1117&section=footer" />
