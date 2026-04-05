@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=3000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;Currently+building+DevHive+%E2%86%92+distraction-free+dev+platform;Exploring+System+Design+%C2%B7+DevOps+%C2%B7+AI+Tooling;%E2%9C%A6+Not+just+cool.+Actually+useful." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=3000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer+--+MERN+%7C+Next.js+%7C+TypeScript;Building+DevHive+-+distraction-free+dev+platform;System+Design+%7C+DevOps+%7C+Cloud+%7C+AI+Tooling;Not+just+cool.+Actually+useful." />
 
 </div>
 
@@ -25,22 +25,20 @@
 <br/>
 
 ```typescript
-╔──────────────────────────────────────────────────────────────────────────────╗
-│                                                                              │
-│   const joyeb = {                                                            │
-│     name       : "Joyeb",                          handle : "@devxziki",    │
-│     role       : "Full Stack Developer",                                     │
-│     stack      : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],  │
-│                                                                              │
-│     building   : "DevHive — distraction-free platform for developers",      │
-│     learning   : ["System Design", "Distributed Systems", "DevOps+Cloud"],  │
-│     exploring  : "AI-powered autonomous CLI tooling",                        │
-│                                                                              │
-│     principles : ["Builders > Learners", "Shipping > Coding"],              │
-│     motto      : "Not just cool. Actually useful.",                          │
-│   };                                                                         │
-│                                                                              │
-╚──────────────────────────────────────────────────────────────────────────────╝
+const joyeb = {
+  name       : "Joyeb",
+  handle     : "@devxziki",
+  role       : "Full Stack Developer",
+
+  stack      : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
+
+  building   : "DevHive — distraction-free platform for developers",
+  learning   : ["System Design", "Distributed Systems", "DevOps + Cloud"],
+  exploring  : "AI-powered autonomous CLI tooling",
+
+  principles : ["Builders > Learners", "Shipping > Coding"],
+  motto      : "Not just cool. Actually useful.",
+};
 ```
 
 <br/>
@@ -89,27 +87,27 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 <td valign="top" width="48%" align="center">
 
 ```
-┌─────────────────────────────────┐
-│                                 │
-│   ██████╗ ███████╗██╗   ██╗    │
-│   ██╔══██╗██╔════╝██║   ██║    │
-│   ██║  ██║█████╗  ██║   ██║    │
-│   ██║  ██║██╔══╝  ╚██╗ ██╔╝    │
-│   ██████╔╝███████╗ ╚████╔╝     │
-│   ╚═════╝ ╚══════╝  ╚═══╝      │
-│           H I V E               │
-│                                 │
-├─────────────────────────────────┤
-│                                 │
-│  ◉  Snippets         [ LIVE ]  │
-│  ◉  Q&A Forum        [ LIVE ]  │
-│  ◌  Collab           [  WIP ]  │
-│  ◌  AI Tools         [  WIP ]  │
-│                                 │
-├─────────────────────────────────┤
-│  "No feeds. No noise.           │
-│   Just code and value."         │
-└─────────────────────────────────┘
++----------------------------------+
+|                                  |
+|  DDD   EEE   V   V               |
+|  D  D  E     V   V               |
+|  D  D  EEE    V V                |
+|  D  D  E      V V                |
+|  DDD   EEE     V                 |
+|                                  |
+|      H  I  V  E                  |
+|                                  |
++----------------------------------+
+|                                  |
+|  [*] Snippets     [ LIVE ]       |
+|  [*] Q&A Forum    [ LIVE ]       |
+|  [ ] Collab       [  WIP ]       |
+|  [ ] AI Tools     [  WIP ]       |
+|                                  |
++----------------------------------+
+|  "No feeds. No noise.            |
+|   Just code and value."          |
++----------------------------------+
 ```
 
 </td>
