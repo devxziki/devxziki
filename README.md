@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=JOYEB&fontAlign=50&fontAlignY=38&fontSize=120&fontColor=ffffff&fontStyle=bold&desc=Full%20Stack%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Builder&descAlign=50&descAlignY=60&descSize=17&descFontColor=94a3b8&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=JOYEB&fontAlign=50&fontAlignY=38&fontSize=120&fontColor=ffffff&fontStyle=bold&desc=Full%20Stack%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Builder&descAlign=50&descAlignY=60&descSize=17&descFontColor=94a3b8&color=0:0a0e1a,50:0d1f3c,100:102a4c&animation=fadeIn" />
 
 <div align="center">
 
@@ -269,4 +269,4 @@ Design for scale.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:24243e,50:302b63,100:0f0c29&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:102a4c,50:0d1f3c,100:0a0e1a&section=footer" />
