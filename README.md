@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=JOYEB&fontAlign=50&fontAlignY=45&fontSize=100&fontColor=ffffff&fontStyle=bold&desc=Full%20Stack%20Developer%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descAlign=50&descAlignY=65&descSize=17&color=0:020817,40:0f172a,70:0a1628,100:020817" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=JOYEB&fontAlign=50&fontAlignY=42&fontSize=110&fontColor=ffffff&fontStyle=bold&desc=Full%20Stack%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Builder&descAlign=50&descAlignY=62&descSize=18&color=0:0d1117,50:0d1117,100:0d1117" />
 
 </div>
 
@@ -8,13 +8,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-joyeb.me-0f172a?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://joyeb.me)&ensp;
-[![GitHub](https://img.shields.io/badge/-@devxziki-0f172a?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/devxziki)&ensp;
-[![DevHive](https://img.shields.io/badge/-DevHive%20↗-f97316?style=for-the-badge)](https://github.com/devxziki/devhive)
+[![Portfolio](https://img.shields.io/badge/joyeb.me-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://joyeb.me)&nbsp;
+[![GitHub](https://img.shields.io/badge/@devxziki-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/devxziki)&nbsp;
+[![VibeBuddy](https://img.shields.io/badge/VibeBuddy%20%E2%86%97-7c3aed?style=for-the-badge&labelColor=4c1d95)](https://github.com/devxziki/vibebuddy)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=3000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer+--+MERN+%7C+Next.js+%7C+TypeScript;Building+DevHive+-+distraction-free+dev+platform;System+Design+%7C+DevOps+%7C+Cloud+%7C+AI+Tooling;Not+just+cool.+Actually+useful." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;Building+VibeBuddy+%E2%80%94+AI-powered+app+generation+platform;System+Design+%7C+DevOps+%7C+Cloud+%7C+AI+Architecture;Not+just+cool.+Actually+useful." />
 
 </div>
 
@@ -28,15 +28,15 @@
 const joyeb = {
   name       : "Joyeb",
   handle     : "@devxziki",
-  role       : "Full Stack Developer",
+  role       : "Full Stack Engineer",
 
   stack      : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
 
-  building   : "DevHive — distraction-free platform for developers",
+  flagship   : "VibeBuddy — AI platform to generate Web Apps, APKs & Desktop EXEs",
   learning   : ["System Design", "Distributed Systems", "DevOps + Cloud"],
-  exploring  : "AI-powered autonomous CLI tooling",
+  exploring  : "Multi-model AI routing & autonomous code generation",
 
-  principles : ["Builders > Learners", "Shipping > Coding"],
+  principles : ["Builders > Learners", "Shipping > Coding", "Impact > Complexity"],
   motto      : "Not just cool. Actually useful.",
 };
 ```
@@ -47,72 +47,67 @@ const joyeb = {
 
 <br/>
 
-## 🚀 &nbsp;DevHive — Flagship Project
+## 🤖 &nbsp;VibeBuddy — Flagship Project
 
 <br/>
 
-> **The distraction-free developer platform.** No feeds. No noise. Just code and value.
+> **AI-powered platform that generates full-stack web apps, Android APKs, and Desktop EXEs — built for students and creators.**
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="52%">
-
-Developers waste hours on social media, noisy forums, and scattered resources. **DevHive** is the antidote — one focused space to write, collaborate, and ship.
+VibeBuddy is a **hybrid AI development platform** that lets anyone generate production-ready software without writing a single line of code. Built on a multi-model AI routing architecture with offline-first design and local storage.
 
 <br/>
 
-| &nbsp;Module | Description | Status |
+**Core Capabilities**
+
+| Module | Description | Status |
 |---|---|:---:|
-| **⬡ &nbsp;Snippets** | Syntax-highlighted code library | ![](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| **◎ &nbsp;Q&A Forum** | Stack Overflow-style, zero noise | ![](https://img.shields.io/badge/LIVE-238636?style=flat-square) |
-| **⟳ &nbsp;Realtime Collab** | Pair program & review live | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
-| **✦ &nbsp;AI Dev Tools** | Context-aware coding assistant | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
+| **⚡ Web App Generator** | Full-stack apps via AI code gen | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
+| **📱 APK Builder** | Android app generation + export | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
+| **🖥 Desktop EXE** | Windows executable generation | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
+| **✏️ Edit Mode** | Click-to-modify UI elements | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
+| **☁️ Cloud Sync** | Firebase-backed optional sync | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
+| **📦 ZIP / APK Export** | One-click project download | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
 
 <br/>
 
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=4ade80)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=4ade80)
-![Socket.io](https://img.shields.io/badge/Socket.io-0f172a?style=flat-square&logo=socket.io&logoColor=white)
+**AI Architecture**
+
+```
+  Gemini Flash  (Manager — Decision + Routing)
+       ├── Hugging Face / Llama   (Default worker)
+       ├── Groq                   (Fast inference)
+       └── OpenRouter             (Fallback models)
+```
+
+<br/>
+
+**How VibeBuddy Works**
+
+```
+  User Prompt ──► Gemini Flash (Route + Decide) ──► Worker Model (Generate Code)
+                         │                                      │
+                         └── Template Engine (Offline) ─────── ┘
+                                                                │
+  Generated Code ──► Edit Mode ──► Export (ZIP / APK / EXE) ◄─┘
+         │
+         └── Firebase Sync (optional) · Auto-delete after 30 days inactivity
+```
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0369a1?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a00?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Gemini](https://img.shields.io/badge/Gemini-1a0533?style=flat-square&logo=google&logoColor=a78bfa)
+![Groq](https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
 
 <br/>
 
-[![Source Code](https://img.shields.io/badge/Source_Code-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki/devhive)&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devxziki/devhive)
-
-</td>
-<td valign="top" width="48%" align="center">
-
-```
-+----------------------------------+
-|                                  |
-|  DDD   EEE   V   V               |
-|  D  D  E     V   V               |
-|  D  D  EEE    V V                |
-|  D  D  E      V V                |
-|  DDD   EEE     V                 |
-|                                  |
-|      H  I  V  E                  |
-|                                  |
-+----------------------------------+
-|                                  |
-|  [*] Snippets     [ LIVE ]       |
-|  [*] Q&A Forum    [ LIVE ]       |
-|  [ ] Collab       [  WIP ]       |
-|  [ ] AI Tools     [  WIP ]       |
-|                                  |
-+----------------------------------+
-|  "No feeds. No noise.            |
-|   Just code and value."          |
-+----------------------------------+
-```
-
-</td>
-</tr>
-</table>
+[![Source Code](https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki/vibebuddy)&nbsp;
+[![VibeBuddy](https://img.shields.io/badge/VibeBuddy%20%E2%86%97-4c1d95?style=for-the-badge&logoColor=white)](https://github.com/devxziki/vibebuddy)
 
 <br/>
 
@@ -140,7 +135,15 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 ![Express](https://img.shields.io/badge/Express-1c1c1c?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-14532d?style=for-the-badge&logo=mongodb&logoColor=4ade80)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f2744?style=for-the-badge&logo=postgresql&logoColor=93c5fd)
+![Firebase](https://img.shields.io/badge/Firebase-1a1200?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Redis](https://img.shields.io/badge/Redis-450a0a?style=for-the-badge&logo=redis&logoColor=fca5a5)
+
+**AI & ML**
+
+![Gemini](https://img.shields.io/badge/Gemini_Flash-1a0533?style=for-the-badge&logo=google&logoColor=a78bfa)
+![Groq](https://img.shields.io/badge/Groq_API-0a0a0a?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-1a1200?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0f172a?style=for-the-badge&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -175,7 +178,7 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devxziki&theme=dark&hide_border=true&background=0D1117&stroke=1f2937&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=4b5563" />
+<img src="https://streak-stats.demolab.com?user=devxziki&theme=transparent&hide_border=true&background=0D1117&stroke=1f2937&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=38bdf8&sideLabels=8b949e&dates=4b5563" />
 
 <br/>
 
@@ -195,10 +198,10 @@ Developers waste hours on social media, noisy forums, and scattered resources. *
 
 ```
   Full Stack Development        ████████████████████  100%  ✓  Mastered
-  System Design & Scalability   ██████████████░░░░░░   72%  ↑  Active
-  AI-Powered Web Tools          █████████████░░░░░░░   65%  ↑  Building
-  DevOps & Cloud                ███████████░░░░░░░░░   55%  ↑  Deep Dive
-  Autonomous AI CLI             █████████░░░░░░░░░░░   48%  ↗  Research
+  AI Architecture & Routing     ██████████████░░░░░░   72%  ↑  Active
+  System Design & Scalability   █████████████░░░░░░░   65%  ↑  Deep Dive
+  DevOps & Cloud Infrastructure ███████████░░░░░░░░░   55%  ↑  Building
+  Autonomous Code Generation    ██████████░░░░░░░░░░   48%  ↗  Research
 ```
 
 <br/>
@@ -259,12 +262,12 @@ Design for scale.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio%20↗-0f172a?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://joyeb.me)&ensp;
-[![Follow on GitHub](https://img.shields.io/github/followers/devxziki?style=for-the-badge&label=Follow+on+GitHub&logo=github&color=0f172a&logoColor=white)](https://github.com/devxziki)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio%20%E2%86%97-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://joyeb.me)&ensp;
+[![Follow on GitHub](https://img.shields.io/github/followers/devxziki?style=for-the-badge&label=Follow+on+GitHub&logo=github&color=161b22&logoColor=white)](https://github.com/devxziki)
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=devxziki&color=38bdf8&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=devxziki&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/devxziki)
 
 <br/><br/>
 
@@ -274,4 +277,4 @@ Design for scale.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020817,40:0f172a,70:0a1628,100:020817&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,50:0d1117,100:0d1117&section=footer" />
