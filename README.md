@@ -4,11 +4,10 @@
 
 [![Portfolio](https://img.shields.io/badge/joyeb.me-161b22?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://joyeb.me)&nbsp;
 [![GitHub](https://img.shields.io/badge/@devxziki-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/devxziki)&nbsp;
-[![VibeBuddy](https://img.shields.io/badge/VibeBuddy%20%E2%86%97-7c3aed?style=for-the-badge&labelColor=4c1d95)](https://github.com/devxziki/vibebuddy)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;Building+VibeBuddy+%E2%80%94+AI-powered+app+generation+platform;System+Design+%7C+DevOps+%7C+Cloud+%7C+AI+Architecture;Not+just+cool.+Actually+useful." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%E2%80%94+MERN+%7C+Next.js+%7C+TypeScript;System+Design+%7C+DevOps+%7C+Cloud+%7C+AI+Architecture;Not+just+cool.+Actually+useful." />
 
 </div>
 
@@ -26,7 +25,6 @@ const joyeb = {
 
   stack      : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
 
-  flagship   : "VibeBuddy — AI platform to generate Web Apps, APKs & Desktop EXEs",
   learning   : ["System Design", "Distributed Systems", "DevOps + Cloud"],
   exploring  : "Multi-model AI routing & autonomous code generation",
 
@@ -34,74 +32,6 @@ const joyeb = {
   motto      : "Not just cool. Actually useful.",
 };
 ```
-
-<br/>
-
----
-
-<br/>
-
-## 🤖 &nbsp;VibeBuddy — Flagship Project
-
-<br/>
-
-> **AI-powered platform that generates full-stack web apps, Android APKs, and Desktop EXEs — built for students and creators.**
-
-<br/>
-
-VibeBuddy is a **hybrid AI development platform** that lets anyone generate production-ready software without writing a single line of code. Built on a multi-model AI routing architecture with offline-first design and local storage.
-
-<br/>
-
-**Core Capabilities**
-
-| Module | Description | Status |
-|---|---|:---:|
-| **⚡ Web App Generator** | Full-stack apps via AI code gen | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
-| **📱 APK Builder** | Android app generation + export | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
-| **🖥 Desktop EXE** | Windows executable generation | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
-| **✏️ Edit Mode** | Click-to-modify UI elements | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
-| **☁️ Cloud Sync** | Firebase-backed optional sync | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
-| **📦 ZIP / APK Export** | One-click project download | ![](https://img.shields.io/badge/WIP-b45309?style=flat-square) |
-
-<br/>
-
-**AI Architecture**
-
-```
-  Gemini Flash  (Manager — Decision + Routing)
-       ├── Hugging Face / Llama   (Default worker)
-       ├── Groq                   (Fast inference)
-       └── OpenRouter             (Fallback models)
-```
-
-<br/>
-
-**How VibeBuddy Works**
-
-```
-  User Prompt ──► Gemini Flash (Route + Decide) ──► Worker Model (Generate Code)
-                         │                                      │
-                         └── Template Engine (Offline) ─────── ┘
-                                                                │
-  Generated Code ──► Edit Mode ──► Export (ZIP / APK / EXE) ◄─┘
-         │
-         └── Firebase Sync (optional) · Auto-delete after 30 days inactivity
-```
-
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0369a1?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a00?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Gemini](https://img.shields.io/badge/Gemini-1a0533?style=flat-square&logo=google&logoColor=a78bfa)
-![Groq](https://img.shields.io/badge/Groq-0a0a0a?style=flat-square&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
-
-<br/>
-
-[![Source Code](https://img.shields.io/badge/Source_Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devxziki/vibebuddy)&nbsp;
-[![VibeBuddy](https://img.shields.io/badge/VibeBuddy%20%E2%86%97-4c1d95?style=for-the-badge&logoColor=white)](https://github.com/devxziki/vibebuddy)
 
 <br/>
 
